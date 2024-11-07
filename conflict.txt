@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-paar rida teksti! veel read!!! 
-=======
-paar rida teksti. Veel read 
->>>>>>> 5f68481b733bd0e924cd20b8fab3181af906e3bb
+paar rida teksti! Veel read  !!! 
 HUGO TRISTAN
 ANRI 
 HELEN 
