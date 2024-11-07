@@ -1,0 +1,9 @@
+h1 {
+    src: url('/fonts/Cookie-Regular.ttf');
+}
+
+.menu{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+
